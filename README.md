@@ -2,26 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.1.
 
-## Development server
+# Localization In Angular Using i18n Tools
+In this article, we will learn how to make our Angular app available in different languages using i18n and localization. We will create an Angular application and configure it to serve the content in three different languages. We will also deploy our app to Google Firebase and see how localization works in real time.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+We will use Angular 7 and VS Code to develop our application. Take a look at the application output.
 
-## Code scaffolding
+![Alt Text](https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2019/01/i18n.gif)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+# Read the full article at
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+https://ankitsharmablogs.com/localization-in-angular-using-i18n-tools
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Application Demo
+The application is hosted at https://i18ndemo-415ef.firebaseapp.com/en/. 
