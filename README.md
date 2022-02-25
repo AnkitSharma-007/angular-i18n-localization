@@ -1,3 +1,5 @@
+## This project is deprecated. Please refer to the updated project at https://github.com/AnkitSharma-007/angular-localization 
+
 # I18nDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.1.
